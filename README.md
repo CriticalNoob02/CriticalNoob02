@@ -1,7 +1,14 @@
+<div align="Center">
+<h2>Finalizando o Arco de Thriller Bark</h2> 
+</div>
+
 
 <div align="center">
-<img alt="Brook" height="150" width="250" src="https://user-images.githubusercontent.com/103211486/180312234-eea09c5e-0bc1-4373-a1de-17b5e43fb7ea.png">
+<a href="https://www.youtube.com/watch?v=Q41sefpItDo" target="_blank">
+  <img alt="Brook" height="150" width="250" src="https://user-images.githubusercontent.com/103211486/180313702-8ff7ac95-4f75-4f92-b356-4e14f1b1cc10.gif">
+</a>
 </div>
+
 
 
 ##
