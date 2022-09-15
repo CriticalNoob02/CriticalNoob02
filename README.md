@@ -1,11 +1,11 @@
 <div align="Center">
-<h2>Arquipélago Sabaody</h2> 
+<h2>Princesa Covarde</h2> 
 </div>
 
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=CZHUgKyr6sw" target="_blank">
-  <img alt="Brook" height="150" width="250" src="https://user-images.githubusercontent.com/103211486/180894582-5fe10026-84c5-4131-a1c8-56e6e516b3a1.gif">
+  <img alt="Pós_Timeskip" height="150" width="250" src="https://user-images.githubusercontent.com/103211486/190509540-fb2dae00-5f7e-4b62-94be-9dc7a46939e4.gif">
 </a>
 </div>
 
