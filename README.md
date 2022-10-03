@@ -1,14 +1,13 @@
 <div align="Center">
-<h2>Princesa Covarde</h2> 
+<h2>Hoddy Viciado</h2> 
 </div>
 
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=CZHUgKyr6sw" target="_blank">
-  <img alt="Pós_Timeskip" height="150" width="250" src="https://user-images.githubusercontent.com/103211486/190509540-fb2dae00-5f7e-4b62-94be-9dc7a46939e4.gif">
+  <img alt="Pós_Timeskip" height="150" width="250" src="https://user-images.githubusercontent.com/103211486/193640056-239063bc-3d22-4ebd-84b7-5d67bd5afc14.gif">
 </a>
 </div>
-
 
 
 
