@@ -29,7 +29,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=CriticalNoob02&title=-Reviews,-PullRequest,-Issues&theme=onestar&margin-w=15)
 
 ## 🏗️ GitHub Projects
-![](https://svg.bookmark.style/api?url=https://github.com/CriticalNoob02/sync-database&mode=dark)
 ![](https://svg.bookmark.style/api?url=https://github.com/CriticalNoob02/sync-datasus&mode=dark)
 
 ## 👀 Github Profile Visitor
