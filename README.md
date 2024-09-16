@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://pokemon-status.vercel.app/">
+  <img src="https://pokemon-status.vercel.app/?pokemon=poliwag&user=CriticalNoob02&theme=dratini">
 </div>
 
 <details>
