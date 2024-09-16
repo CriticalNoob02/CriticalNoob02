@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://pokemon-status-ten.vercel.app/">
+  <img src="https://pokemon-status.vercel.app/">
 </div>
 
 <details>
