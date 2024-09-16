@@ -18,6 +18,10 @@
   <img src="https://skillicons.dev/icons?i=docker,prometheus,postgres,cypress,py,go,ts,react">
 </div>
 
+<div align="center">
+  <img src="https://pokemon-status-ten.vercel.app/">
+</div>
+
 <details>
 <summary>Algumas metricas...</summary>
 
