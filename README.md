@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=CriticalNoob02&title=-Reviews,-PullRequest,-Issues&theme=onestar&margin-w=15)
 
 ## 🏗️ GitHub Projects
-![](https://svg.bookmark.style/api?url=https://github.com/CriticalNoob02/sync-datasus&mode=dark)
+![](https://svg.bookmark.style/api?url=https://github.com/WizardCodeForge/pokemon-status&mode=dark)
 
 ## 👀 Github Profile Visitor
 ![](https://profile-counter.glitch.me/CriticalNoob02/count.svg)
